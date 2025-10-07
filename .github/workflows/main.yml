@@ -1,6 +1,6 @@
 name: solucion-CI
 
-on: pull_request
+on: push
 
 jobs:
   Unit-Tests:
